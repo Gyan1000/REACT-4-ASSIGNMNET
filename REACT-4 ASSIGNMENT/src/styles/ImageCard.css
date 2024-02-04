@@ -1,0 +1,29 @@
+.photoCard img{
+    width: 13rem;
+    height: 13rem;
+    border-radius: 10px;
+    filter:drop-shadow(5px 5px 5px rgb(168, 233, 168));
+}
+.photoCard { 
+    position: relative;
+    transition: all 1s;
+}
+
+.photoCard h1 {
+    position: absolute;
+    bottom: 0rem;
+    font-size: 1rem; 
+    width: 2.7rem;
+    min-width: fit-content;
+    padding: 0.4rem;
+    background-color: white;
+    border-top-right-radius: 0.7rem;
+    border-bottom-right-radius: 0.7rem;
+    text-align: center;
+    transition: transform 1s;
+    color: rgb(9, 219, 9);
+   
+}
+.photoCard:hover{
+  transform: scale(1.1);
+}
