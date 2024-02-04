@@ -64,7 +64,9 @@ You may also see any lint errors in the console.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![React4-1](https://github.com/Gyan1000/REACT-4-ASSIGNMNET/assets/125688259/b8454cd2-a923-4fa7-97f8-3ae332a71810)
+![react4-2](https://github.com/Gyan1000/REACT-4-ASSIGNMNET/assets/125688259/b0d7983c-79c1-4cdd-aaac-c704b9b2f83d)
+
 
 
 ## Feedback
